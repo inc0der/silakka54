@@ -31,7 +31,7 @@
         "KC_LCTRL",
         "KC_Z",
         "KC_X",
-        "TD(3)",
+        "KC_C",
         "KC_V",
         "KC_B"
       ],
@@ -107,7 +107,7 @@
         "LSFT(KC_4)",
         "LSFT(KC_9)",
         "LSFT(KC_0)",
-        "KC_TRNS"
+        "LSFT(KC_MINUS)"
       ],
       [
         "KC_TRNS",
@@ -708,7 +708,7 @@
       "KC_LSHIFT",
       "KC_LSHIFT",
       "KC_LGUI",
-      "KC_NO",
+      "KC_LGUI",
       400
     ],
     [
@@ -931,8 +931,8 @@
   ],
   "combo": [
     [
-      "KC_LCTRL",
-      "KC_A",
+      "KC_NO",
+      "KC_NO",
       "KC_NO",
       "KC_NO",
       "KC_NO"
